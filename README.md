@@ -62,6 +62,8 @@ docker-compose up -d
 
 Once the application is running, you can access the Saleor dashboard via [http://localhost:9002/](http://localhost:9002/) and the API at [http://localhost:8000/](http://localhost:8000/).
 
+<img src="./Images/Saelor-dashboard.png" alt="Saelor-dashboard at port 9002" width="600" />
+
 ---
 
 ### 4. Security Measures
